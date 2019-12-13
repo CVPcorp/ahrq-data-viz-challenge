@@ -4,7 +4,7 @@
 
 ### Purpose:
 This documentation will cover how to deploy Metabase on an AWS EC2 instance with a separate RDS instance. <br>
-These directionsT were written to make setup as easy as possible for someone new to AWS. Not covered:
+These directions were written to make setup as easy as possible for someone new to AWS. Not covered:
 
 * You should have separate DB accounts for read-only and read-write users 
 * We did not explicitly configure backups for the Metabase server. RDS snapshots should be sufficient. 
